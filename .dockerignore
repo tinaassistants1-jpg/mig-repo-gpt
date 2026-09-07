@@ -1,0 +1,9 @@
+.git
+.github
+tests
+backups
+*.sqlite3
+.env
+__pycache__
+.pytest_cache
+.ruff_cache
